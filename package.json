@@ -1,0 +1,17 @@
+{
+  "name": "vowme-crowdsale",
+  "version": "1.0.0",
+  "description": "VowMe Token Crowdsale",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "bignumber.js": "^4.1.0",
+    "truffle": "^4.0.0"
+  },
+  "author": "VowMe",
+  "dependencies": {
+    "bignumber.js": "^4.1.0",
+    "truffle": "^4.0.0"
+  }
+}
