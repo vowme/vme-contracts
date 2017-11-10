@@ -4,6 +4,7 @@ This is the official repository for the crowdsale of VowMe tokens.
 
 
 We use SafeMath.sol and ERC20.sol from Zeppelin (thanks!)
+
 NewToken.sol is an example of a new token that we might upgrade to.
 
 We have 1400+ lines of tests. There are two test files:
